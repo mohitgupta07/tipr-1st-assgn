@@ -1,0 +1,11 @@
+Each Row is a Sample.
+And Each column is a feature.
+So for eg 62 X 32.. here a row contains 32 columns or a vector.
+thus we have 62 row vectors.
+
+Assuming that all output labels are from 0 to k-1 for k class.
+
+Tasks to be done:
+K-fold validation
+LHS
+Random Projection and storing part.
